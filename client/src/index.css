@@ -1,0 +1,43 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --hotel-green: #163a2a;
+  --hotel-green-dark: #0d241a;
+  --hotel-gold: #c99a4a;
+  --hotel-gold-light: #e1bc72;
+  --hotel-cream: #f7f4ec;
+  --hotel-white: #ffffff;
+  --hotel-black: #111311;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  font-family: Georgia, "Times New Roman", serif;
+  background: var(--hotel-cream);
+  color: #171917;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  font-family: inherit;
+}
+
+::selection {
+  background: var(--hotel-gold);
+  color: white;
+}
+
