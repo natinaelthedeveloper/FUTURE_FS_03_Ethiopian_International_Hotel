@@ -1,4 +1,4 @@
-#FUTURE_FS_03: Ethiopian International Hotel Web Application
+# FUTURE_FS_03: Ethiopian International Hotel Web Application
 
 A modern, responsive luxury hotel website inspired by Ethiopian hospitality, architecture, and culture.
 
