@@ -1,6 +1,6 @@
-# 🌐 FUTURE_FS_03: Ethiopian International Hotel Web Application
+# 🌐 FUTURE_FS_03: HALALA International Hotel Web Application
 
-A modern, responsive luxury hotel website inspired by Ethiopian hospitality, architecture, and culture.
+A modern, responsive luxury hotel website inspired by HALALA hospitality, architecture, and culture.
 
 The project focuses on creating a premium hotel booking experience using **React.js, JavaScript, Tailwind CSS v4, and React Router DOM**.
 
